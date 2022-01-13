@@ -1,6 +1,8 @@
 # 21school_igarg
 --->>> Libft - ok - 125%
 
+https://microelectronics.dev/eboris/libft.wiki.git < ---- описание функций
+
 --->>> ft_printf - ok - 100%
 
 --->>> GNL - ok - 125%
